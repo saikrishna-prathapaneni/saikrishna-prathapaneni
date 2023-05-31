@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hello! <img src="https://avatars.githubusercontent.com/u/57140923?s=96&v=4" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
