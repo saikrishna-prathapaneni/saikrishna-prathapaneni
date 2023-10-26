@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         Currently working on DL/ML aspects.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/sai-krishna-prathapaneni/">
+    <a href="https://www.linkedin.com/in/saiprathapaneni/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 
